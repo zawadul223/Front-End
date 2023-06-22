@@ -1,0 +1,11 @@
+.contact-page-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85vh; /* Optional: Adjust the height as needed */
+  }
+
+  .value-container {
+    margin-top: 1rem; /* Add margin to separate the value from the heading */
+  }
+  
